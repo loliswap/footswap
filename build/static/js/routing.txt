@@ -1,0 +1,13 @@
+main:
+   *pools text
+   *menu
+
+5:
+   *lottery
+
+6:
+   *farms text
+
+7:
+   *TVL indications
+   *main page
